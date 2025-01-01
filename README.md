@@ -88,5 +88,8 @@ To run the project, ensure you have the following installed:
   - **seaborn**
   - **scikit-learn**
 
+### Future Work
+  - Integrate the model into a web application for real-time clustering.
+
 
 
